@@ -1,5 +1,5 @@
 # ADXL345
-To Create driver file for ADXL345 sensor to communicate with SPI & I2C interfaces.
+ ADXL345 sensor to communicate with ST mcu
 
 ADXL345 GPIO CONFIGURATIONS/REGISTER CONFIGURATIONS:
 
